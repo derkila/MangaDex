@@ -3,7 +3,7 @@ import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import './app.scss';
 
 import Header from './Components/Header/Header';
-import { Main, Favorites, Manga, Chapter, Signup, Signin, Suggestion } from './Pages';
+import { Main, Favorites, Manga, Chapter, Suggestion } from './Pages';
 
 import SideMenu from './Features/SideMenu/SideMenu';
 import SideMain from './Components/SideMain/SideMain';
